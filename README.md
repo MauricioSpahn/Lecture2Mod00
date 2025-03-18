@@ -1,2 +1,2 @@
-# Lecture2Mod0
-Este es un repositorio de prueba de la lecture 2 del modulo 0 de Henry.
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio local.
+
